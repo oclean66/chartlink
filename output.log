@@ -1,0 +1,55 @@
+Starting...
+Step 1
+{
+    "name": "Set-Cookie",
+    "value": "XSRF-TOKEN=eyJpdiI6IjhoRW5zZTdhNnc3S05IRFdTSFVaNGc9PSIsInZhbHVlIjoiWTQ0cm5zaW5LT1FaNk4zOUF1bE9yTUNZcVh5ald4WjVhSzFsZTh0dnZreFBZM0xBWU9jaGFIU1RZTmE5TUdRciIsIm1hYyI6IjA4MmZlMDMwNjAxN2U0ZjcxNTUwN2ExN2U0NTIzMmFhODkyMDk0ODU1NzlmMjQxZDU1YjFiNzBlYWU4YzI5OTEifQ%3D%3D; expires=Thu, 10-Sep-2020 03:26:46 GMT; Max-Age=7200; path=/\nci_session=eyJpdiI6IkZhaXNVbmpVMXJrSDNBaE9Ma0ZSZnc9PSIsInZhbHVlIjoiblNoUllTbnFoSmQxQU1HVFM0UVNiVlRuRUZxR1FDQVlMSkpwVUd4cEloOVJmSmFyNHliamVjbmtIS1EwVDd1aCIsIm1hYyI6ImVhNzEzYjFiYTAwZWQ5MjQzYTRhZWE2MTNkNDJlMTdhNmU3ZjJjYjQzMmNiYjc4YzE2NzgyZWZjYTNmMzc2NTEifQ%3D%3D; expires=Thu, 10-Sep-2020 03:26:46 GMT; Max-Age=7200; path=/; httponly"
+}
+https://chartink.com/screener/intraday-positional-buy-2
+"VTDa3KCTINUUxiTXcUjamcAXlFI2iRayUXqi0R4Q"
+{
+    "contentType": "application/json",
+    "headers": [
+        {
+            "name": "Cache-Control",
+            "value": "no-cache, private"
+        },
+        {
+            "name": "Content-Length",
+            "value": "41"
+        },
+        {
+            "name": "Content-Type",
+            "value": "application/json"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 10 Sep 2020 01:26:48 GMT"
+        },
+        {
+            "name": "Server",
+            "value": "Apache/2.4.25 (Debian)"
+        },
+        {
+            "name": "Set-Cookie",
+            "value": "ci_session=eyJpdiI6IkUrbnJnQkl3czhUd08zYitOYll6MWc9PSIsInZhbHVlIjoiOWFvcTNHYkNMSGJkNEdQXC93cVNMWG4zUlVBYVdQbUEzeFwvNVg2NzE1QnFqaEo0ckNXajBMS3cwMnFrVFlZN214IiwibWFjIjoiOGZjNDcxMTg1Y2Y3Y2NiMTlmZWY0OGZlNTkwZWNhN2JmYzI2NWQxZDE1ZDM4ZDI5YjQ4YTI5YjM2NjFjNDQ4MyJ9; expires=Thu, 10-Sep-2020 03:26:48 GMT; Max-Age=7200; path=/; httponly"
+        },
+        {
+            "name": "X-Powered-By",
+            "value": "PHP/7.3.12"
+        }
+    ],
+    "id": 25,
+    "redirectURL": null,
+    "stage": "end",
+    "status": 419,
+    "statusText": "status code 419",
+    "time": "2020-09-10T01:26:48.340Z",
+    "url": "https://chartink.com/screener/process",
+    "data": null
+}
+"XSRF-TOKEN=eyJpdiI6IjhoRW5zZTdhNnc3S05IRFdTSFVaNGc9PSIsInZhbHVlIjoiWTQ0cm5zaW5LT1FaNk4zOUF1bE9yTUNZcVh5ald4WjVhSzFsZTh0dnZreFBZM0xBWU9jaGFIU1RZTmE5TUdRciIsIm1hYyI6IjA4MmZlMDMwNjAxN2U0ZjcxNTUwN2ExN2U0NTIzMmFhODkyMDk0ODU1NzlmMjQxZDU1YjFiNzBlYWU4YzI5OTEifQ%3D%3D; expires=Thu, 10-Sep-2020 03:26:46 GMT; Max-Age=7200; path=/\nci_session=eyJpdiI6IkZhaXNVbmpVMXJrSDNBaE9Ma0ZSZnc9PSIsInZhbHVlIjoiblNoUllTbnFoSmQxQU1HVFM0UVNiVlRuRUZxR1FDQVlMSkpwVUd4cEloOVJmSmFyNHliamVjbmtIS1EwVDd1aCIsIm1hYyI6ImVhNzEzYjFiYTAwZWQ5MjQzYTRhZWE2MTNkNDJlMTdhNmU3ZjJjYjQzMmNiYjc4YzE2NzgyZWZjYTNmMzc2NTEifQ%3D%3D; expires=Thu, 10-Sep-2020 03:26:46 GMT; Max-Age=7200; path=/; httponly"
+"VTDa3KCTINUUxiTXcUjamcAXlFI2iRayUXqi0R4Q"
+{
+    "message": "CSRF token mismatch."
+}
+Finalizado: 2.852 segundos  en  0  eventos
