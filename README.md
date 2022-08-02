@@ -29,8 +29,18 @@ phantomjs --version
 You should see the following output:
 2.1.1
 
-# Step 4: install casperjs
-npm install casperjs
+# Step 4: install npm 
+  apt install npm
+# Step 5: install python
+  sudo apt update
+  sudo apt install software-properties-common
+  sudo add-apt-repository ppa:deadsnakes/ppa
+  sudo apt install python3.9
+  sudo apt install python
+  python3.9 --version
+  python --version
+# Step 6: install casperjs
+  npm install casperjs
 
-# run
-casperjs bogota.js
+# Step 7: Run
+  ./node_modules/casperjs/bin/casperjs bogota.js
